@@ -10,15 +10,20 @@
 アイクン
 
 ## 今日やったこと
-- Group Repository を作成した
-- GitHub の main ブランチを確認した
+- Group Repository の main ブランチを確認した
 - origin/main を確認した
-- Repository を clone した
+- Repository を自分のPCに clone した
+- グループメンバーに作業報告書の作成方法を教えた
+- GitHub の基本的な使い方を確認した
+
+## これまでに終わったこと
+- 企画書 v.1 は昨日完成した
 
 ## 次にやること
-- 企画書 v.1 を作成する
-- ゲーム制作の担当を決める
+- ゲーム制作の担当を確認する
+- GitHub を使ってグループで作業を進める
+- 必要なファイルを Repository に追加する
 
 ## 困ったこと
-- Git と GitHub の使い方がまだよく分からない
-- origin/main の意味を確認した
+- origin/main の意味が最初は分かりにくかった
+- Git と GitHub の操作にまだ慣れていない
